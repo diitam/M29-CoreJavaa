@@ -1,0 +1,6 @@
+Super Keyword:
+used to refer the immediate parent variable
+it is a keyword referred to immediate parent class object 
+the instance of the parent class is referred to by the super keyword 
+
+

@@ -1,0 +1,33 @@
+design pattern--->industry standard approach to solve recurring problem in software
+				  design patterns promotes reusability that leads to more robust and highly maintainable code
+				  It makes our code easy to understand and debug.It helps in faster development and new members to team understand it easily
+				  
+Types------------>Creational-Singelton Pattern
+							 Factory Pattern
+							 Abstract Pattern
+							 Builder Pattern
+							 Prototype Pattern
+							 
+				  Structural-Adaptor Pattern
+				  			 Bridge Pattern
+				  			 Decorator Pattern
+				  			 Facade Pattern
+				  			 Composite Pattern
+				  			 Proxy Pattern
+				  			 Flyweight Pattern
+				  			 
+				  Behavioral-chain of responsibility Pattern
+				  			 Template method Pattern
+				  			 Observer Pattern
+				  			 Strategy Pattern
+				  			 Mediator Pattern
+				  			 Command Pattern
+				  			 State Pattern
+				  			 Visitor Pattern
+				  			 Interpretor Pattern
+				  			 Iterator Pattern
+				  			 meonotic Pattern
+				  			 
+singleton--->make sure that there is only one instance of the class in JVM
+			class here must provide the global access point to get the instance
+			-Steps to create the singleton pattern-Create the private constructor to restrict the instatio

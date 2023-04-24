@@ -1,0 +1,8 @@
+Polymorphism---ability to make more than one form
+types:
+compile time--
+connecting the function call to the function body is done before execution
+(a). By changing the arguments
+(b). By having different types of argument
+
+runtime--

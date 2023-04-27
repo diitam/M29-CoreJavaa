@@ -1,0 +1,14 @@
+Interface 
+-looks like class but is not a class
+-defines set of speciification that other clases must apply
+-it can have methods and variables just like the class
+ but the methods declares in interface are build by default abstract
+ 
+ Use Of Interface
+ -used to achieve abstraction
+ -we can support functionality of multiple inheritance
+ 
+ Rules for interface
+ -it is implemented by class not extended
+ -interface is declared by using interface keyword
+ -a class that implements inetrface must implement all methods declared in the interface

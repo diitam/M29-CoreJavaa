@@ -1,0 +1,23 @@
+Difference between throw and throws
+
+throw-
+1. explicitly throws an exception
+2. checked exception that are not occurred at run tym those cannot be propagated through throw
+3. followed by instance
+4. Used within the method
+5. cannot throw multiple exception
+
+
+
+
+throws
+
+1. used to declare an exception
+2. checked exception can be propagated
+3. followed by class
+4. used with a method signature
+5. can declare multiple exceptions
+
+
+
+--Creating our own exception--

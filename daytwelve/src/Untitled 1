@@ -1,0 +1,30 @@
+There are two types of synchronization.....
+Process synchronization 
+Thread Synchronization
+
+Process Synchronization
+	Term used to share resources between two or more processes
+	
+Critical Section
+	Piece of code being shared but different processes is called as Critical Section
+	
+Semaphores
+	Solution to avoid critical section is called as Semaphores.
+	
+Thread Synchronization
+	Concurrent execution of two or more resource by two or more thread
+	
+	
+----------------------------------------------------------------------------------------
+Examples-1. Synchronized Instance Method
+			for each object there is only one thread then it can execute into object..
+			But if there is more than one object then only single thread can execute 
+			in the block of each object.
+			
+		 2. Synchronized Static Method
+		 	we can mark static method as synchronized just like we marked 
+		 	the instance methods using the synchronized keyword.
+		 	
+		 3. Synchronized Block inside Instance Methods
+		 	If we do not want to synchronize whole method we can synchronize only the particular block
+		 	

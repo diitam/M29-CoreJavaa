@@ -2,6 +2,9 @@ package daytwelve.threading;
 public class Person {
 	private int id;
 	private String name;
+	public Person(int i, String string) {
+		// TODO Auto-generated constructor stub
+	}
 	public int getId() {
 		return id;
 	}

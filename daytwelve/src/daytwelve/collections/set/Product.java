@@ -17,6 +17,10 @@ public class Product {
 	public String toString() {
 		return "Product [proId=" + proId + ", name=" + name + ", price=" + price + "]";
 	}
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 }

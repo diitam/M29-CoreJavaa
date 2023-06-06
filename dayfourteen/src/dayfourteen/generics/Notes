@@ -1,0 +1,9 @@
+A generic class can refer to any data type is known as generic class
+we use T type parameter to create the generic class of specific type.
+
+//Example class
+class MYgen<T>
+{
+	R obj;
+	void add(T obj);
+}

@@ -1,0 +1,24 @@
+JUnit5
+Testing-raising the reliability and quality of a program..It is costly...takes lot of tym...it is done with the intend of finding error
+
+what is JUNIT..?
+-process of testing individual subprogam,subroutines  to compare the function of module to its  specification is called unit testing
+-It is inexpensive as it is easy way of test
+-it is free open source software testing framework
+-It is not at automated testing tool....it is a jar file
+
+
+It allows to group multiple test
+it allows invoke test in simple step
+we can check if pass or fail
+it has standardize way of writing test
+
+Junit versions-Junit 3,4,5
+
+testing..Junit versions...why we use Junit and its architecture
+
+
+
+Annotations -  disabled....beforeall...afterall...displayName
+Assertion-  assertNull...assertTrue...assertFalse
+Assumptions-Static method inside jupyter packet- assumeTrue...assumeFalse

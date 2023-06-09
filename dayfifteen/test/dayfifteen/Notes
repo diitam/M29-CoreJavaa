@@ -2,7 +2,7 @@ JUnit5
 Testing-raising the reliability and quality of a program..It is costly...takes lot of tym...it is done with the intend of finding error
 
 what is JUNIT..?
--process of testing individual subprogam,subroutines  to compare the function of module to its  specification is called unit testing
+-process of testing individual sub-program,subroutines  to compare the function of module to its  specification is called unit testing
 -It is inexpensive as it is easy way of test
 -it is free open source software testing framework
 -It is not at automated testing tool....it is a jar file

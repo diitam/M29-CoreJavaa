@@ -1,0 +1,12 @@
+Annotation-
+          It is a tag that represents metadata ie.attached class,interface,methods,fields.
+  	  It provides additional information
+	  TYpes-builtIn
+      		Custom
+
+BuiltIn-@Override..@Supresswarnings..@Deprecated..@Target...@Retention...@Inherited....@Documented
+
+
+
+Custom Annotation 
+

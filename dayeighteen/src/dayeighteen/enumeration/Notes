@@ -1,0 +1,16 @@
+Ennumeration
+-introduced in java5
+-It is a special data type 
+-it consists of pre defined named values separated by commas
+
+Characteristics of Enum:-
+-they are constant cannot be overridden 
+-they does not support creation of obj
+-enum cannot extend other class
+-Enum can implement interface like classes
+
+
+Syntax:-
+enum var_name{val1,val2,val3,.........,valn}
+
+
